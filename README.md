@@ -3,7 +3,7 @@
 A web-based hostel attendance system built using the MERN stack, enabling administrators to log daily attendance, track student presence, and export reports.
 
 📌 Note:
-🔹 Full project code is in the master branch (not main).
+🔹 **Full project code is in the master branch** (not main).
 🔹 Focused on security, scalability, and real-time data handling.
 
 🚀 Tech Stack
@@ -31,7 +31,7 @@ CSV report export
 Responsive dashboard
 
 📦 Setup
-git clone -b master https://github.com/yourusername/hostel-track.git
+git clone -b master https://github.com/SinhaHarshh/hostel-track.git
 cd hostel-track
 
 
